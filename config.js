@@ -12,8 +12,8 @@ const CONFIG = {
     question:'mai anh về với vợ nhá <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Vâng <33333333',
-    mess: 'Anh biết mà 🥰😘😘',
-    messDesc: 'iu em <3333',
+    mess: 'Yêu em 🥰😘😘',
+    messDesc: '',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/Loc.nguyen.gaming.13.09' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
